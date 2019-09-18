@@ -14,5 +14,7 @@ class School
       @roster[grade] = []
       @roster[grade] << name
     end
+  
+  def 
   end
 end
