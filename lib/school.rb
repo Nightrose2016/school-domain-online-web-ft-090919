@@ -20,4 +20,8 @@ class School
     students = @roster[grade]
   end
   
+  def sort
+    sorted =
+  end
+  
 end
