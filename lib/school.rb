@@ -8,7 +8,6 @@ class School
   end
   
   def add_student
-    @name = name
-    
+    @student = name
   end
 end
