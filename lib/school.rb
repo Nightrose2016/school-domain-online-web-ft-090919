@@ -21,7 +21,7 @@ class School
   end
   
   def sort
-    sorted_roster = @roster
+    sorted_roster = {}
     @roster.each { |key,names| sorted[key] = names.sort}
     sorted_roster
   end
