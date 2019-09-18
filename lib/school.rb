@@ -15,6 +15,7 @@ class School
       @roster[grade] << name
     end
   
-  def gra
+  def grade
+    @
   end
 end
