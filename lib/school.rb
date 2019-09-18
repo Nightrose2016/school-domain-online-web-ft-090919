@@ -22,7 +22,7 @@ class School
   
   def sort
     sorted = @roster
-    
+    @roster.each { \
   end
   
 end
